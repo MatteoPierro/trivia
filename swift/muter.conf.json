@@ -1,0 +1,13 @@
+{
+  "arguments" : [
+    "-project",
+    "Trivia.xcodeproj",
+    "-scheme",
+    "Trivia",
+    "test"
+  ],
+  "exclude" : [
+
+  ],
+  "executable" : "\/usr\/bin\/xcodebuild"
+}

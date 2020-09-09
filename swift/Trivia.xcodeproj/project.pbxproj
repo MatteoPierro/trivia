@@ -6,6 +6,20 @@
 	objectVersion = 47;
 	objects = {
 
+/* Begin PBXAggregateTarget section */
+		840A71502417D66A000C4F47 /* Mutation testing */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 840A71532417D66A000C4F47 /* Build configuration list for PBXAggregateTarget "Mutation testing" */;
+			buildPhases = (
+				840A71542417D693000C4F47 /* ShellScript */,
+			);
+			dependencies = (
+			);
+			name = "Mutation testing";
+			productName = "Mutation testing";
+		};
+/* End PBXAggregateTarget section */
+
 /* Begin PBXBuildFile section */
 		2D130AC01BCDA46D0099E18F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D130ABF1BCDA46D0099E18F /* main.swift */; };
 		2D130AC71BCDA4810099E18F /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D130AC61BCDA4810099E18F /* Game.swift */; };
@@ -141,6 +155,10 @@
 						CreatedOnToolsVersion = 7.1;
 						LastSwiftMigration = 1000;
 					};
+					840A71502417D66A000C4F47 = {
+						CreatedOnToolsVersion = 11.3.1;
+						ProvisioningStyle = Automatic;
+					};
 				};
 			};
 			buildConfigurationList = 2D130AB71BCDA46D0099E18F /* Build configuration list for PBXProject "Trivia" */;
@@ -148,6 +166,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 2D130AB31BCDA46D0099E18F;
@@ -157,6 +176,7 @@
 			targets = (
 				2D130ABB1BCDA46D0099E18F /* Trivia */,
 				2D130ACB1BCDB7A40099E18F /* TriviaTests */,
+				840A71502417D66A000C4F47 /* Mutation testing */,
 			);
 		};
 /* End PBXProject section */
@@ -170,6 +190,26 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		840A71542417D693000C4F47 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "muter --output-xcode\n";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		2D130AB81BCDA46D0099E18F /* Sources */ = {
@@ -334,6 +374,22 @@
 			};
 			name = Release;
 		};
+		840A71512417D66A000C4F47 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		840A71522417D66A000C4F47 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -360,6 +416,15 @@
 			buildConfigurations = (
 				2D130AD21BCDB7A40099E18F /* Debug */,
 				2D130AD31BCDB7A40099E18F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		840A71532417D66A000C4F47 /* Build configuration list for PBXAggregateTarget "Mutation testing" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				840A71512417D66A000C4F47 /* Debug */,
+				840A71522417D66A000C4F47 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
