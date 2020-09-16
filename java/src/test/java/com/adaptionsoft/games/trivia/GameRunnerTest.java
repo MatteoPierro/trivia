@@ -15,7 +15,14 @@ public class GameRunnerTest {
 	public void run_a_game() throws Exception {
 		Integer[] seeds = {1,2};
 		Players[] playerCombinations = new Players[] {
-				new Players("Chet", "Pat", "Sue")
+				new Players(),
+				new Players("Chet"),
+				new Players("Chet", "Pat"),
+				new Players("Chet", "Pat", "Sue"),
+				new Players("Chet", "Pat", "Sue", "Foo"),
+				new Players("Chet", "Pat", "Sue", "Foo", "Bar"),
+				new Players("Chet", "Pat", "Sue", "Foo", "Bar", "Bizz"),
+				new Players("Chet", "Pat", "Sue", "Foo", "Bar", "Bizz", "Dho"),
 		};
 
 		CombinationApprovals.verifyAllCombinations(
