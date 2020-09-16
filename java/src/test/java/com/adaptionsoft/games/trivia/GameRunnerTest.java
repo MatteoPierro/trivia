@@ -13,18 +13,35 @@ public class GameRunnerTest {
 	@Test
 	public void run_a_game() throws Exception {
 		Integer[] seeds = {1,2};
-		Approvals.verifyAll(seeds,seed -> runGame(seed));
+		Approvals.verifyAll(seeds,seed -> runGame(seed, new Players("Chet", "Pat", "Sue")));
 	}
 
-	private String runGame(int seed) {
+	private String runGame(int seed, Players players) {
 		ByteArrayOutputStream outputStream = new ByteArrayOutputStream();
 		PrintStream printStream = new PrintStream(outputStream, true);
 		PrintStream oldOut = System.out;
 		System.setOut(printStream);
 
-		GameRunner.run(new Random(seed));
+		GameRunner.run(new Random(seed), players.values());
 
 		System.setOut(oldOut);
 		return outputStream.toString();
+	}
+
+	private class Players {
+		private String[] players;
+
+		public Players(String ... players) {
+			this.players = players;
+		}
+
+		public String[] values() {
+			return players;
+		}
+
+		@Override
+		public String toString() {
+			return String.join(",", players);
+		}
 	}
 }
