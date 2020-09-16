@@ -1,4 +1,4 @@
-Chet was added
+[1, Chet,Pat,Sue] => Chet was added
 They are player number 1
 Pat was added
 They are player number 2
@@ -111,8 +111,8 @@ The category is Science
 Science Question 5
 Answer was corrent!!!!
 Chet now has 6 Gold Coins.
-
-Chet was added
+ 
+[2, Chet,Pat,Sue] => Chet was added
 They are player number 1
 Pat was added
 They are player number 2
@@ -226,4 +226,4 @@ The category is Rock
 Rock Question 1
 Answer was corrent!!!!
 Chet now has 6 Gold Coins.
-
+ 

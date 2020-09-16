@@ -2,6 +2,7 @@ package com.adaptionsoft.games.trivia;
 
 import com.adaptionsoft.games.trivia.runner.GameRunner;
 import org.approvaltests.Approvals;
+import org.approvaltests.combinations.CombinationApprovals;
 import org.junit.Test;
 
 import java.io.ByteArrayOutputStream;
@@ -13,7 +14,15 @@ public class GameRunnerTest {
 	@Test
 	public void run_a_game() throws Exception {
 		Integer[] seeds = {1,2};
-		Approvals.verifyAll(seeds,seed -> runGame(seed, new Players("Chet", "Pat", "Sue")));
+		Players[] playerCombinations = new Players[] {
+				new Players("Chet", "Pat", "Sue")
+		};
+
+		CombinationApprovals.verifyAllCombinations(
+				this::runGame,
+				seeds,
+				playerCombinations
+		);
 	}
 
 	private String runGame(int seed, Players players) {
