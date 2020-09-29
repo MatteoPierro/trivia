@@ -1,0 +1,1607 @@
+Chet was added
+They are player number 1
+Chet is the current player
+They have rolled a 5
+Chet's new location is 5
+The category is Science
+Science Question 0
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 10
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 3
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 8
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 1
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 6
+The category is Sports
+Sports Question 1
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 11
+The category is Rock
+Rock Question 1
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 4
+The category is Pop
+Pop Question 1
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 9
+The category is Science
+Science Question 2
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 2
+The category is Sports
+Sports Question 2
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 7
+The category is Rock
+Rock Question 2
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 0
+The category is Pop
+Pop Question 2
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 5
+The category is Science
+Science Question 3
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 10
+The category is Sports
+Sports Question 3
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 3
+The category is Rock
+Rock Question 3
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 8
+The category is Pop
+Pop Question 3
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 1
+The category is Science
+Science Question 4
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 6
+The category is Sports
+Sports Question 4
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 11
+The category is Rock
+Rock Question 4
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 4
+The category is Pop
+Pop Question 4
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 9
+The category is Science
+Science Question 5
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 2
+The category is Sports
+Sports Question 5
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 7
+The category is Rock
+Rock Question 5
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 0
+The category is Pop
+Pop Question 5
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 5
+The category is Science
+Science Question 6
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 10
+The category is Sports
+Sports Question 6
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 3
+The category is Rock
+Rock Question 6
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 8
+The category is Pop
+Pop Question 6
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 1
+The category is Science
+Science Question 7
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 6
+The category is Sports
+Sports Question 7
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 11
+The category is Rock
+Rock Question 7
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 4
+The category is Pop
+Pop Question 7
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 9
+The category is Science
+Science Question 8
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 2
+The category is Sports
+Sports Question 8
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 7
+The category is Rock
+Rock Question 8
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 0
+The category is Pop
+Pop Question 8
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 5
+The category is Science
+Science Question 9
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 10
+The category is Sports
+Sports Question 9
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 3
+The category is Rock
+Rock Question 9
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 8
+The category is Pop
+Pop Question 9
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 1
+The category is Science
+Science Question 10
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 6
+The category is Sports
+Sports Question 10
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 11
+The category is Rock
+Rock Question 10
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 4
+The category is Pop
+Pop Question 10
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 9
+The category is Science
+Science Question 11
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 2
+The category is Sports
+Sports Question 11
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 7
+The category is Rock
+Rock Question 11
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 0
+The category is Pop
+Pop Question 11
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 5
+The category is Science
+Science Question 12
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 10
+The category is Sports
+Sports Question 12
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 3
+The category is Rock
+Rock Question 12
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 8
+The category is Pop
+Pop Question 12
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 1
+The category is Science
+Science Question 13
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 6
+The category is Sports
+Sports Question 13
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 11
+The category is Rock
+Rock Question 13
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 4
+The category is Pop
+Pop Question 13
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 9
+The category is Science
+Science Question 14
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 2
+The category is Sports
+Sports Question 14
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 7
+The category is Rock
+Rock Question 14
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 0
+The category is Pop
+Pop Question 14
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 5
+The category is Science
+Science Question 15
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 10
+The category is Sports
+Sports Question 15
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 3
+The category is Rock
+Rock Question 15
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 8
+The category is Pop
+Pop Question 15
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 1
+The category is Science
+Science Question 16
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 6
+The category is Sports
+Sports Question 16
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 11
+The category is Rock
+Rock Question 16
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 4
+The category is Pop
+Pop Question 16
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 9
+The category is Science
+Science Question 17
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 2
+The category is Sports
+Sports Question 17
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 7
+The category is Rock
+Rock Question 17
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 0
+The category is Pop
+Pop Question 17
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 5
+The category is Science
+Science Question 18
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 10
+The category is Sports
+Sports Question 18
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 3
+The category is Rock
+Rock Question 18
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 8
+The category is Pop
+Pop Question 18
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 1
+The category is Science
+Science Question 19
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 6
+The category is Sports
+Sports Question 19
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 11
+The category is Rock
+Rock Question 19
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 4
+The category is Pop
+Pop Question 19
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 9
+The category is Science
+Science Question 20
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 2
+The category is Sports
+Sports Question 20
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 7
+The category is Rock
+Rock Question 20
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 0
+The category is Pop
+Pop Question 20
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 5
+The category is Science
+Science Question 21
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 10
+The category is Sports
+Sports Question 21
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 3
+The category is Rock
+Rock Question 21
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 8
+The category is Pop
+Pop Question 21
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 1
+The category is Science
+Science Question 22
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 6
+The category is Sports
+Sports Question 22
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 11
+The category is Rock
+Rock Question 22
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 4
+The category is Pop
+Pop Question 22
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 9
+The category is Science
+Science Question 23
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 2
+The category is Sports
+Sports Question 23
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 7
+The category is Rock
+Rock Question 23
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 0
+The category is Pop
+Pop Question 23
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 5
+The category is Science
+Science Question 24
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 10
+The category is Sports
+Sports Question 24
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 3
+The category is Rock
+Rock Question 24
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 8
+The category is Pop
+Pop Question 24
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 1
+The category is Science
+Science Question 25
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 6
+The category is Sports
+Sports Question 25
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 11
+The category is Rock
+Rock Question 25
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 4
+The category is Pop
+Pop Question 25
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 9
+The category is Science
+Science Question 26
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 2
+The category is Sports
+Sports Question 26
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 7
+The category is Rock
+Rock Question 26
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 0
+The category is Pop
+Pop Question 26
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 5
+The category is Science
+Science Question 27
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 10
+The category is Sports
+Sports Question 27
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 3
+The category is Rock
+Rock Question 27
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 8
+The category is Pop
+Pop Question 27
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 1
+The category is Science
+Science Question 28
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 6
+The category is Sports
+Sports Question 28
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 11
+The category is Rock
+Rock Question 28
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 4
+The category is Pop
+Pop Question 28
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 9
+The category is Science
+Science Question 29
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 2
+The category is Sports
+Sports Question 29
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 7
+The category is Rock
+Rock Question 29
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 0
+The category is Pop
+Pop Question 29
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 5
+The category is Science
+Science Question 30
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 10
+The category is Sports
+Sports Question 30
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 3
+The category is Rock
+Rock Question 30
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 8
+The category is Pop
+Pop Question 30
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 1
+The category is Science
+Science Question 31
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 6
+The category is Sports
+Sports Question 31
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 11
+The category is Rock
+Rock Question 31
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 4
+The category is Pop
+Pop Question 31
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 9
+The category is Science
+Science Question 32
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 2
+The category is Sports
+Sports Question 32
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 7
+The category is Rock
+Rock Question 32
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 0
+The category is Pop
+Pop Question 32
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 5
+The category is Science
+Science Question 33
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 10
+The category is Sports
+Sports Question 33
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 3
+The category is Rock
+Rock Question 33
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 8
+The category is Pop
+Pop Question 33
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 1
+The category is Science
+Science Question 34
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 6
+The category is Sports
+Sports Question 34
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 11
+The category is Rock
+Rock Question 34
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 4
+The category is Pop
+Pop Question 34
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 9
+The category is Science
+Science Question 35
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 2
+The category is Sports
+Sports Question 35
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 7
+The category is Rock
+Rock Question 35
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 0
+The category is Pop
+Pop Question 35
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 5
+The category is Science
+Science Question 36
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 10
+The category is Sports
+Sports Question 36
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 3
+The category is Rock
+Rock Question 36
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 8
+The category is Pop
+Pop Question 36
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 1
+The category is Science
+Science Question 37
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 6
+The category is Sports
+Sports Question 37
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 11
+The category is Rock
+Rock Question 37
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 4
+The category is Pop
+Pop Question 37
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 9
+The category is Science
+Science Question 38
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 2
+The category is Sports
+Sports Question 38
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 7
+The category is Rock
+Rock Question 38
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 0
+The category is Pop
+Pop Question 38
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 5
+The category is Science
+Science Question 39
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 10
+The category is Sports
+Sports Question 39
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 3
+The category is Rock
+Rock Question 39
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 8
+The category is Pop
+Pop Question 39
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 1
+The category is Science
+Science Question 40
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 6
+The category is Sports
+Sports Question 40
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 11
+The category is Rock
+Rock Question 40
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 4
+The category is Pop
+Pop Question 40
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 9
+The category is Science
+Science Question 41
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 2
+The category is Sports
+Sports Question 41
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 7
+The category is Rock
+Rock Question 41
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 0
+The category is Pop
+Pop Question 41
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 5
+The category is Science
+Science Question 42
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 10
+The category is Sports
+Sports Question 42
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 3
+The category is Rock
+Rock Question 42
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 8
+The category is Pop
+Pop Question 42
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 1
+The category is Science
+Science Question 43
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 6
+The category is Sports
+Sports Question 43
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 11
+The category is Rock
+Rock Question 43
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 4
+The category is Pop
+Pop Question 43
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 9
+The category is Science
+Science Question 44
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 2
+The category is Sports
+Sports Question 44
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 7
+The category is Rock
+Rock Question 44
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 0
+The category is Pop
+Pop Question 44
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 5
+The category is Science
+Science Question 45
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 10
+The category is Sports
+Sports Question 45
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 3
+The category is Rock
+Rock Question 45
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 8
+The category is Pop
+Pop Question 45
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 1
+The category is Science
+Science Question 46
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 6
+The category is Sports
+Sports Question 46
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 11
+The category is Rock
+Rock Question 46
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 4
+The category is Pop
+Pop Question 46
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 9
+The category is Science
+Science Question 47
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 2
+The category is Sports
+Sports Question 47
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 7
+The category is Rock
+Rock Question 47
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 0
+The category is Pop
+Pop Question 47
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 5
+The category is Science
+Science Question 48
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 10
+The category is Sports
+Sports Question 48
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 3
+The category is Rock
+Rock Question 48
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 8
+The category is Pop
+Pop Question 48
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 1
+The category is Science
+Science Question 49
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 6
+The category is Sports
+Sports Question 49
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 11
+The category is Rock
+Rock Question 49
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 4
+The category is Pop
+Pop Question 49
+Question was incorrectly answered
+Chet was sent to the penalty box
+Chet is the current player
+They have rolled a 5
+Chet is getting out of the penalty box
+Chet's new location is 9
+The category is Science
+null

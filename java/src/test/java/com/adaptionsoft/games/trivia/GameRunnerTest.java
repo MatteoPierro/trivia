@@ -32,20 +32,53 @@ public class GameRunnerTest {
 		);
 	}
 
+	@Test
+	public void extracts_all_questions() {
+		Approvals.verify(run(endlessGame()));
+	}
+
+	public Runnable endlessGame() {
+		return () -> {
+			try {
+				Random random = new Random() {
+					private int seed = 7;
+
+					@Override
+					public int nextInt(int bound) {
+						seed = seed == 7 ? 4 : 7;
+						return seed;
+					}
+				};
+
+				GameRunner.run(random, "Chet");
+			} catch (Exception e) {
+				System.out.println(e.getMessage());
+			}
+		};
+	}
+
 	private String runGame(int seed, Players players) {
+		return run(gameWith(seed, players));
+	}
+
+	private Runnable gameWith(int seed, Players players) {
+		return () -> GameRunner.run(new Random(seed), players.values());
+	}
+
+	private String run(Runnable game) {
 		ByteArrayOutputStream outputStream = new ByteArrayOutputStream();
 		PrintStream printStream = new PrintStream(outputStream, true);
 		PrintStream oldOut = System.out;
 		System.setOut(printStream);
 
-		GameRunner.run(new Random(seed), players.values());
+		game.run();
 
 		System.setOut(oldOut);
 		return outputStream.toString();
 	}
 
-	private class Players {
-		private String[] players;
+	private static class Players {
+		private final String[] players;
 
 		public Players(String ... players) {
 			this.players = players;
